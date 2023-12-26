@@ -9,7 +9,7 @@ AsciiPainting is a Windows program made in C, that provides people with a very b
   * Action history! (Undo by CTRL+Z, redo by CTRL+Y)
 
 * Command Mode
-  * The command mode is a mode where you can input commands to save art, open files, make new paintings, and more!
+  * The command mode is where you can input commands to save art, open files, make new paintings, and more!
   * Features
     * 'q' to quit the program
     * 'd' to delete current painting
